@@ -18,7 +18,6 @@ const Cover = ({ bgImage, title }) => {
             </div>
           </div>
         </div>
-        {/* <div style={{ height: "500px" }} /> */}
       </Parallax>
     </section>
   );
