@@ -2,7 +2,6 @@ import React from "react";
 
 const MenuItem = ({ item }) => {
   const { name, price, image, recipe } = item;
-  console.log(name);
   return (
     <div className="flex space-x-4">
       <img

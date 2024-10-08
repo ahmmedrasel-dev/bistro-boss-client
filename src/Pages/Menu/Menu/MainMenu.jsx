@@ -12,6 +12,7 @@ import MenuCategory from "../MenuCategory/MenuCategory";
 
 const MainMenu = () => {
   const [menu] = useMenu();
+
   const offered = menu.filter((item) => item.category === "offered");
   const desserts = menu.filter((item) => item.category === "dessert");
   const pizza = menu.filter((item) => item.category === "pizza");

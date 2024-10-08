@@ -27,7 +27,7 @@ const FeaturedMenu = () => {
               Iusto nesciunt laborum commodi quo facere non ipsum exercitationem
               aliquid minus.
             </p>
-            <button class="btn btn-outline btn-success border-0 border-b-4 mt-6">
+            <button className="btn btn-outline btn-success border-0 border-b-4 mt-6">
               Order Now
             </button>
           </div>
